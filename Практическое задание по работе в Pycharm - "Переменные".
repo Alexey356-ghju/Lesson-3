@@ -1,0 +1,4 @@
+first_name='Python'
+kol_vo=12
+times=2
+print('Курс:',first_name,', всего задач:',kol_vo,', затрачено часов',kol_vo,', среднее время выполнения',(times/kol_vo) )
